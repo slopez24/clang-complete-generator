@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "clang-complete-generator:generate"
   },
-  "repository": "https://github.com/atom/clang-complete-generator",
+  "repository": "https://github.com/slopez24/clang-complete-generator",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
