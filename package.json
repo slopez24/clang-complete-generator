@@ -1,7 +1,7 @@
 {
   "name": "clang-complete-generator",
   "main": "./lib/clang-complete-generator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Generates a .clang_complete file including all the folders in the current project. It enables the go-to function from Autocomplete Clang",
   "keywords": [],
   "activationCommands": {
