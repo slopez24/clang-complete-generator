@@ -1,0 +1,18 @@
+{
+  "name": "clang-complete-generator",
+  "main": "./lib/clang-complete-generator",
+  "version": "0.0.0",
+  "description": "Generates a .clang_complete file including all the folders in the current project. It enables the go-to function from Autocomplete Clang",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "clang-complete-generator:generate"
+  },
+  "repository": "https://github.com/atom/clang-complete-generator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

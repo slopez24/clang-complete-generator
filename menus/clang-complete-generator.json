@@ -1,0 +1,20 @@
+{
+  "context-menu": {
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Generate clang_complete",
+          "submenu": [
+            {
+              "label": "Generate",
+              "command": "clang-complete-generator:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
